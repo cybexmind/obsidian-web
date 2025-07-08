@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "it-IT",
-    baseUrl: "cybexmind.github-io/obsidian-web",
+    baseUrl: "cybexmind.github.io/obsidian-web",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
