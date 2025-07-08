@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-04-07T19:13:54.503+02:00","modified":"2025-07-08T23:36:04.366+02:00","cssclasses":""}
+{"publish":true,"created":"2024-04-07T19:13:54.503+02:00","modified":"2025-07-08T23:38:52.069+02:00","cssclasses":""}
 ---
 
 🏷 Tags: [[Linktags/workflow]] [[Linktags/goal]]
