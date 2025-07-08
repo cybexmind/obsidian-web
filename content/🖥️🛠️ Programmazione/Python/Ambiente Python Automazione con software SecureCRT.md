@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-04-07T19:18:29.560+02:00","modified":"2025-07-08T23:40:46.082+02:00","cssclasses":""}
+{"publish":true,"created":"2024-04-07T19:18:29.560+02:00","modified":"2025-07-08T23:45:18.839+02:00","cssclasses":""}
 ---
 
 🏷 Tags: [[Linktags/python]] [[Linktags/risorsa]] [[Linktags/automazione\|automazione]] 
